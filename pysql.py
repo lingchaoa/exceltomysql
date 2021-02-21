@@ -106,8 +106,8 @@ if __name__ == "__main__":
 
     ## 2.新增
     # 返回受影响行数
-    print(data_base.execute_modify("insert into users(name,age,description) values (%s,%s,%s)",
-                                   ['gpw', '18', 'This is author']))
+    print(data_base.execute_modify("insert into city_nation values (%s,%s)",
+                                   ['gpw','author']))
 
 
 

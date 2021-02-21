@@ -4,5 +4,6 @@
 # @Author  : 孔令超
 # @File    : tesy.py
 # @Software: PyCharm
-hehle==
-jernt
+import pandas as pd
+import numpy as np
+

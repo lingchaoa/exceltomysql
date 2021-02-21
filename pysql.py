@@ -17,7 +17,7 @@ class MySqlDataSource(object):
 
     # 初始化参数
     # 默认使用了以下数据库信息，可根据自身需求更换或者传值
-    def __init__(self, database='py_excel', host='localhost', port=3306, user='root', password='root', charset='utf8'):
+    def __init__(self, database='test', host='localhost', port=3306, user='root', password='klc930816', charset='utf8'):
         self.__database = database
         self.__host = host
         self.__port = port
@@ -95,7 +95,7 @@ if __name__ == "__main__":
 
     ## 1.查询
     # 执行条件查询（非条件查询将param参数设置为None即可）
-    result_data = data_base.execute_query("select * from users where name = %s and age = %s", ['Jenny', '18'])
+    result_data = data_base.execute_query("select * from city_nation where city = %s and nation = %s", ['硅谷', '美国'])
     # 返回数据处理
     if result_data is None or len(result_data) <= 0:
         # 数据返回空输出

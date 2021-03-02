@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fd422b5-ce99-470f-ad07-2b5b5e1cc1b1" name="默认更改列表" comment="" />
+    <list default="true" id="7fd422b5-ce99-470f-ad07-2b5b5e1cc1b1" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/tesy.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/tesy.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,9 +31,39 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tesy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exceltomysql" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/envs/python35/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/tesy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tesy" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,9 +74,111 @@
       <updated>1613886966016</updated>
       <workItem from="1613886979757" duration="27000" />
     </task>
+    <task id="LOCAL-00001" summary="fggg">
+      <created>1613917502791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613917502791</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fggg">
+      <created>1613918155024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613918155024</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fggg" />
+    <option name="LAST_COMMIT_MESSAGE" value="fggg" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1018" y="531" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613918091715">
+      <screen x="0" y="23" width="2560" height="1356" />
+    </state>
+    <state x="1018" y="531" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.318.1440.877/0.23.2560.1356@0.23.2560.1356" timestamp="1613918091715" />
+    <state x="381" y="238" key="CommitChangelistDialog2" timestamp="1613918154864">
+      <screen x="0" y="23" width="2560" height="1356" />
+    </state>
+    <state x="381" y="238" key="CommitChangelistDialog2/2560.318.1440.877/0.23.2560.1356@0.23.2560.1356" timestamp="1613918154864" />
+    <state x="381" y="238" key="CommitChangelistDialog2/2560.318.1440.877/0.23.2560.1357@0.23.2560.1357" timestamp="1613917502514" />
+    <state x="772" y="402" key="Github.ShareDialog" timestamp="1613917332984">
+      <screen x="0" y="23" width="2560" height="1357" />
+    </state>
+    <state x="772" y="402" key="Github.ShareDialog/2560.318.1440.877/0.23.2560.1357@0.23.2560.1357" timestamp="1613917332984" />
+    <state width="1358" height="218" key="GridCell.Tab.0.bottom" timestamp="1614673713671">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state width="1358" height="218" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1614337481922" />
+    <state width="1358" height="218" key="GridCell.Tab.0.bottom/0.23.1440.842@0.23.1440.842" timestamp="1614183501785" />
+    <state width="1358" height="218" key="GridCell.Tab.0.bottom/2560.318.1440.877/0.23.2560.1354@0.23.2560.1354" timestamp="1614512049777" />
+    <state width="1358" height="218" key="GridCell.Tab.0.bottom/2560.318.1440.877/0.23.2560.1355@0.23.2560.1355" timestamp="1614611474747" />
+    <state width="1358" height="218" key="GridCell.Tab.0.bottom/2560.318.1440.877/0.23.2560.1356@0.23.2560.1356" timestamp="1614611133134" />
+    <state width="1358" height="218" key="GridCell.Tab.0.bottom/2560.318.1440.877/0.23.2560.1361@0.23.2560.1361" timestamp="1614673713671" />
+    <state width="1358" height="218" key="GridCell.Tab.0.center" timestamp="1614673713670">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state width="1358" height="218" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1614337481921" />
+    <state width="1358" height="218" key="GridCell.Tab.0.center/0.23.1440.842@0.23.1440.842" timestamp="1614183501784" />
+    <state width="1358" height="218" key="GridCell.Tab.0.center/2560.318.1440.877/0.23.2560.1354@0.23.2560.1354" timestamp="1614512049776" />
+    <state width="1358" height="218" key="GridCell.Tab.0.center/2560.318.1440.877/0.23.2560.1355@0.23.2560.1355" timestamp="1614611474747" />
+    <state width="1358" height="218" key="GridCell.Tab.0.center/2560.318.1440.877/0.23.2560.1356@0.23.2560.1356" timestamp="1614611133132" />
+    <state width="1358" height="218" key="GridCell.Tab.0.center/2560.318.1440.877/0.23.2560.1361@0.23.2560.1361" timestamp="1614673713670" />
+    <state width="1358" height="218" key="GridCell.Tab.0.left" timestamp="1614673713669">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state width="1358" height="218" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1614337481921" />
+    <state width="1358" height="218" key="GridCell.Tab.0.left/0.23.1440.842@0.23.1440.842" timestamp="1614183501784" />
+    <state width="1358" height="218" key="GridCell.Tab.0.left/2560.318.1440.877/0.23.2560.1354@0.23.2560.1354" timestamp="1614512049775" />
+    <state width="1358" height="218" key="GridCell.Tab.0.left/2560.318.1440.877/0.23.2560.1355@0.23.2560.1355" timestamp="1614611474746" />
+    <state width="1358" height="218" key="GridCell.Tab.0.left/2560.318.1440.877/0.23.2560.1356@0.23.2560.1356" timestamp="1614611133131" />
+    <state width="1358" height="218" key="GridCell.Tab.0.left/2560.318.1440.877/0.23.2560.1361@0.23.2560.1361" timestamp="1614673713669" />
+    <state width="1358" height="218" key="GridCell.Tab.0.right" timestamp="1614673713670">
+      <screen x="0" y="23" width="2560" height="1361" />
+    </state>
+    <state width="1358" height="218" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1614337481921" />
+    <state width="1358" height="218" key="GridCell.Tab.0.right/0.23.1440.842@0.23.1440.842" timestamp="1614183501785" />
+    <state width="1358" height="218" key="GridCell.Tab.0.right/2560.318.1440.877/0.23.2560.1354@0.23.2560.1354" timestamp="1614512049776" />
+    <state width="1358" height="218" key="GridCell.Tab.0.right/2560.318.1440.877/0.23.2560.1355@0.23.2560.1355" timestamp="1614611474747" />
+    <state width="1358" height="218" key="GridCell.Tab.0.right/2560.318.1440.877/0.23.2560.1356@0.23.2560.1356" timestamp="1614611133133" />
+    <state width="1358" height="218" key="GridCell.Tab.0.right/2560.318.1440.877/0.23.2560.1361@0.23.2560.1361" timestamp="1614673713670" />
+    <state width="1358" height="272" key="GridCell.Tab.1.bottom" timestamp="1614180988144">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1358" height="272" key="GridCell.Tab.1.bottom/0.23.1440.842@0.23.1440.842" timestamp="1614180988144" />
+    <state width="1358" height="272" key="GridCell.Tab.1.center" timestamp="1614180988143">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1358" height="272" key="GridCell.Tab.1.center/0.23.1440.842@0.23.1440.842" timestamp="1614180988143" />
+    <state width="1358" height="272" key="GridCell.Tab.1.left" timestamp="1614180988143">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1358" height="272" key="GridCell.Tab.1.left/0.23.1440.842@0.23.1440.842" timestamp="1614180988143" />
+    <state width="1358" height="272" key="GridCell.Tab.1.right" timestamp="1614180988144">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1358" height="272" key="GridCell.Tab.1.right/0.23.1440.842@0.23.1440.842" timestamp="1614180988144" />
+    <state x="416" y="137" key="SettingsEditor" timestamp="1613917171506">
+      <screen x="0" y="23" width="2560" height="1357" />
+    </state>
+    <state x="416" y="137" key="SettingsEditor/2560.318.1440.877/0.23.2560.1357@0.23.2560.1357" timestamp="1613917171506" />
+    <state x="315" y="443" key="Vcs.Push.Dialog.v2" timestamp="1613918188672">
+      <screen x="0" y="23" width="2560" height="1356" />
+    </state>
+    <state x="315" y="443" key="Vcs.Push.Dialog.v2/2560.318.1440.877/0.23.2560.1356@0.23.2560.1356" timestamp="1613918188672" />
+    <state x="315" y="443" key="Vcs.Push.Dialog.v2/2560.318.1440.877/0.23.2560.1357@0.23.2560.1357" timestamp="1613917544179" />
+    <state x="696" y="384" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613917202196">
+      <screen x="0" y="23" width="2560" height="1357" />
+    </state>
+    <state x="696" y="384" key="git4idea.remote.GitConfigureRemotesDialog/2560.318.1440.877/0.23.2560.1357@0.23.2560.1357" timestamp="1613917202196" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/exceltomysql$tesy.coverage" NAME="tesy Coverage Results" MODIFIED="1614676650265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
   </component>
 </project>

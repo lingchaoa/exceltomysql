@@ -4,6 +4,16 @@
 # @Author  : 孔令超
 # @File    : tesy.py
 # @Software: PyCharm
-import pandas as pd
-import numpy as np
+import module
+class Solutions():
+    def shuixianhua(self,num):
+        low = num % 10
+        mid = num // 10 % 10
+        high = num // 100
+        if num == low ** 3 + mid ** 3 + high ** 3:
+            return(num)
+a=Solutions()
+b=a.shuixianhua(153)
+print(b)
 
+foo()
